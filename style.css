@@ -1,0 +1,155 @@
+html{
+    background: pink;
+    border: solid;
+    border-style:outset;
+    border-radius: 150px;
+    border-width:30px;
+    border-color:sienna;
+ 
+}
+h1{
+  
+    font-style: oblique;
+    font-weight: 800;
+    font-family:cursive;
+   
+}
+p{
+    font-family:'Algerian';
+    color: rgba(116, 12, 235, 0.863);
+    font-size: 20px;
+}
+li{
+    font-family: cursive;
+    font-language-override: initial;
+    background: rgb(158, 160, 217);
+    
+
+}
+.camel :hover img{
+    box-shadow: 0 0 50px 20px teal;
+}
+.pigeon :hover img{
+    box-shadow: 0 0 50px 20px teal;
+}
+.chameleon :hover img{
+    box-shadow: 0 0 50px 20px teal;
+}
+.cat :hover img{
+    box-shadow: 0 0 50px 20px teal;
+}
+.teddy :hover img{
+    box-shadow: 0 0 50px 20px teal;
+}
+.swan :hover img{
+    box-shadow: 0 0 50px 20px teal;
+}
+.cicada :hover img{
+    box-shadow: 0 0 50px 20px teal;
+}
+.panda :hover img{
+    box-shadow: 0 0 50px 20px teal;
+    -moz-box-direction: reverse;
+}
+
+
+    
+    .grid {
+    
+      display: flex;
+      justify-content: last baseline;
+      flex-direction: row;
+      text-align: left;
+      flex-wrap: wrap;
+    }
+
+
+    
+
+    
+    .grid {
+    
+      display: flex;
+      justify-content: last baseline;
+      flex-direction: row;
+      text-align: left;
+      flex-wrap: wrap;
+    }
+    
+   .camel {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 200px;
+      height: 500px;
+      padding: 50px;
+    }
+    
+    
+    .chameleon {
+     margin-top: 10px;
+      margin-bottom: 10px;
+      width: 200px;
+      height: 500px;
+      padding: 50px;
+    }
+    
+    .cicada {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 200px;
+      height: 400px;
+      padding: 50px;
+    }
+    
+    .panda {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 200px;
+      height: 400px;
+      padding: 50px;
+    }
+    
+    .pigeon {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 200px;
+      height: 500px;
+      padding: 50px;
+    }
+    
+    .teddy {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 200px;
+      height: 500px;
+      padding: 50px;
+    }
+    
+    .cat {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 200px;
+      height: 400px;
+      padding: 50px;
+    }
+    
+    .swan {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 200px;
+      height: 400px;
+      padding: 50px;
+    }
+    
+  
+  
+  .grid img{
+    display: flex;
+    justify-content: space-between;
+  
+    border-radius: 50px;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+ 
+   
